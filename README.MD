@@ -11,7 +11,7 @@ The task is to create a REST API using Python frameworks:
 4. In your terminal, type this commands:
     * <code>python -m venv venv</code>
     * <code>venv\scripts\activate</code>
-    * <code>pip install -r requiremenets.txt</code>
+    * <code>pip install -r requirements.txt</code>
     * <code>python manager.py makemigrations polls</code>
     * <code>python manager.py migrate</code>
     * <code>python manager.py runserver</code>
